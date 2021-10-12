@@ -1,6 +1,6 @@
 ending_list = ['процент','процента','процентов']
-while True:
-  digit = int(input('Введите число '))
+digit = 0
+while digit <= 100:
   if 10 < digit < 20:
     print (digit, ending_list[2]) 
   else:
@@ -10,3 +10,4 @@ while True:
       print (digit, ending_list[1]) 
     else:
       print (digit, ending_list[2])  
+  digit += 1
