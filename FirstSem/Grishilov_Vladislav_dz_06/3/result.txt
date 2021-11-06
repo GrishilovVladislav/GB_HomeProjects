@@ -1,0 +1,1 @@
+{('Vlad', ' Grishilov', ' Gen\n'): 'swim\n', ('Gena', ' asd', ' Ddd  \n'): 'run\n', ('Lera', ' sadasd', ' ggtt\n'): 'go', ('Mahmud', ' eewq', ' SDdd'): None}
